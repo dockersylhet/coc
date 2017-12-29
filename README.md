@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+Docker Sylhet aims to be a welcoming event, where people meet in a friendly environment. Accordingly, we expect that all participants are expected to show respect and courtesy to other participants throughout the workshop.
 
-You can use the [editor on GitHub](https://github.com/dockersylhet/coc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers and volunteers at any Docker Sylhet event are required to conform to the following Code of Conduct. Organizers will enforce this code before and throughout the event.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## In short
+- Docker Sylhet is dedicated to providing a harassment-free workshop experience for everyone, regardless of gender, sexual orientation, -disability, physical appearance, body size, race, or religion.
+- We do not tolerate harassment of workshop participants in any form.
+- Sexual language and imagery is not appropriate for any workshop venue, including talks.
+- Be kind to others. Do not insult or put down other attendees. Behave professionally. Don't publish photographs of people without their - - consent. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for Docker Sylhet.
+- Conference participants violating these rules may be sanctioned or expelled from the workshop without a refund at the discretion of the workshop organizers.
+## Longer version
+Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
-### Markdown
+Participants asked to stop any harassing behavior are expected to comply immediately.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Excessive swearing and offensive jokes are not appropriate for Docker Sylhet.
 
-```markdown
-Syntax highlighted code block
+If a participant engages in harassing behavior, the workshop organizers may take any action they deem appropriate, including warning the offender or expulsion from the workshop with no refund.
 
-# Header 1
-## Header 2
-### Header 3
+We expect participants to follow these rules at all workshop venues and workshop-related social events.
 
-- Bulleted
-- List
+## Reporting harassment
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact your coach or one of the organizers immediately.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dockersylhet/coc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The staff is well informed on how to deal with the incident and how to further proceed with the situation. Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
