@@ -1,3 +1,4 @@
+# Docker Sylhet Code of Conduct
 Docker Sylhet aims to be a welcoming event, where people meet in a friendly environment. Accordingly, we expect that all participants are expected to show respect and courtesy to other participants throughout the workshop.
 
 To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers and volunteers at any Docker Sylhet event are required to conform to the following Code of Conduct. Organizers will enforce this code before and throughout the event.
